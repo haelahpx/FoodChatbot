@@ -1,0 +1,8 @@
+Flask
+pandas
+torch
+transformers
+sentence-transformers
+spacy
+fuzzywuzzy
+python-Levenshtein  # Required for fuzzywuzzy
